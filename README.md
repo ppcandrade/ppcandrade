@@ -1,4 +1,4 @@
-### Hi, I hope everything is ok, how can I help you? 👋
+### Hi, I hope everything is ok, how can I help you?
 <hr>
 <div align="center">
   <a href="https://github.com/ppcandrade">
