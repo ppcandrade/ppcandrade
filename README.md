@@ -1,35 +1,88 @@
-### Hi, I hope everything is ok, how can I help you?
-<hr>
-<div align="center">
-  <a href="https://github.com/ppcandrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppcandrade&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppcandrade&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="ppcandrade-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ppcandrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ppcandrade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ppcandrade-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="ppcandrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ppcandrade-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="ppcandrade-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="ppcandrade-CAKEPHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg">
-  <img align="center" alt="ppcandrade-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="ppcandrade-DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="ppcandrade-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-<!--
-**ppcandrade/ppcandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Pedro Paulo Andrade 👋
 
-Here are some ideas to get you started:
+Desenvolvedor, empreendedor e entusiasta de tecnologia, automação e inteligência artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo no desenvolvimento de soluções digitais com foco em sistemas web, integrações, APIs, automações de processos e aplicações voltadas para negócios. Tenho interesse especial em projetos que unem tecnologia, eficiência operacional e geração de valor real para empresas e pessoas.
+
+---
+
+## Sobre mim
+
+- Desenvolvedor com experiência em aplicações web e integrações.
+- Interesse em automação de processos, inteligência artificial e sistemas escaláveis.
+- Experiência com projetos envolvendo APIs, bancos de dados, dashboards e fluxos automatizados.
+- Empreendedor no setor de tecnologia e soluções digitais.
+- Sempre buscando evoluir tecnicamente e transformar ideias em produtos reais.
+
+---
+
+## Tecnologias e Ferramentas
+
+### Linguagens e Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks e Desenvolvimento Web
+
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Automação, DevOps e Ferramentas
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## Áreas de Interesse
+
+- Desenvolvimento de sistemas web
+- Integração entre plataformas
+- APIs REST
+- Automação com n8n
+- Inteligência artificial aplicada a negócios
+- Dashboards e análise de dados
+- Sistemas financeiros e crédito consignado
+- Produtos digitais escaláveis
+
+---
+
+## Estatísticas do GitHub
+
+![Pedro Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=ppcandrade&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppcandrade&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Atualmente estudando
+
+- Arquitetura de software
+- Boas práticas com Git e GitHub
+- Integrações com APIs
+- Inteligência artificial aplicada a produtos
+- Automação de processos empresariais
+- Estruturação profissional de projetos privados e públicos
+
+---
+
+
+## Frase que representa minha jornada
+
+> Tecnologia não é apenas código.  
+> É a ponte entre uma ideia, uma necessidade e uma solução real.
+
+---
+
+Obrigado por visitar meu perfil.
